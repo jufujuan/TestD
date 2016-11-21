@@ -1,4 +1,4 @@
-package com.example.dllo.testd.view;
+package com.example.dllo.testd;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
